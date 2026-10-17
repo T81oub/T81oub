@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👋Hey there! Welcome to my GitHub profile! 👨‍💻<br><br>🙋‍♂️ About Me:<br>I'm a curious and enthusiastic applied computer science student, diving headfirst into the exciting realm of machine learning. 🚀 Currently, I'm pursuing an apprenticeship in machine learning, where I get to work on some fascinating projects in this field.<br><br> 🤝 I'm Looking for Help With:<br>As I embark on this machine learning journey, I'm open to collaborating and learning from experienced developers in the community. If you have any insights, tips, or tricks to share, feel free to reach out! 🤗<br><br>📚 Currently Learning:<br>My focus right now is on deep learning. I'm eager to delve deeper into the intricacies of neural networks and explore the vast possibilities they offer in solving complex problems. 🧠<br><br>Let's connect and build amazing things together! 💪
 
 
